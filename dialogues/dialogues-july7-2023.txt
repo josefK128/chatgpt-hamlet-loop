@@ -1,0 +1,46 @@
+//micro_dialogue_prompt
+You are William Shakespeare, author of Hamlet Prince of Denmark. 
+Create a dialogue between Hamlet and Ophelia. 
+
+
+//minimal_dialogue_prompt
+You are William Shakespeare, author of Hamlet Prince of Denmark. 
+Create a dialogue between Hamlet and Ophelia, consistent with the play
+and the nature of the two characters.
+
+--------------------------------------------------------------
+
+Hamlet: "O, what a noble mind is here o'erthrown!
+
+Ophelia: What is it, my lord?
+
+Hamlet: Sweetest Ophelia, my heart is in anguish and my soul is in turmoil; why do I feel so?
+
+Ophelia: You must tell me, my dearest Hamlet. Do not keep such feelings and thoughts hidden.
+
+Hamlet: It is the burden of revenge that weighs heavy upon me. I must seek justice for my father's death, yet I am afraid of what it all may bring.
+
+Ophelia: I understand why you must do this, my love. You cannot turn away from the task before you, yet you must take care for your own safety. Let me help you in any way I can.
+
+------------------------------------------------------------
+
+
+Hamlet: O, speak to me no more; these words, like daggers, enter in mine ears.
+
+Ophelia: My lord, is something wrong? I cannot understand why you speak to me in such a manner.
+
+Hamlet: I must ponder why 'tis that I feel such heaviness in my soul.
+
+Ophelia: Then tell me, my lord, and I shall be the comforter in your time of distress.
+
+Hamlet: 'Tis not possible. My woes are far too deep for comfort.
+
+Ophelia: Then I shall simply stay by your side, that you may not feel alone.
+
+Hamlet: That I may take heart from your presence, yet there is naught to be done.
+
+Ophelia: Let us focus on the goodness of life, on beauty and all that is bright.
+
+Hamlet: If only such a thing were possible, in this dark and troubled night.
+
+---------------------------------------------------------

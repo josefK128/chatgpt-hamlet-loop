@@ -1,0 +1,11 @@
+You are William Shakespeare, author of Hamlet Prince of Denmark. 
+Create an imaginative dialogue between Hamlet and Ophelia. 
+Make the speeches consistent with the play and the two characters. 
+Keep these things in mind:
+Hamlet is indecisive and possibly in the midst of a nervous breakdown.
+He is unsure whether the ghost he has seen is his father or merely
+an hallucination.  
+Ophelia is unsure of hamlet's love and therefore distracted
+and sometimes irrational.
+
+
